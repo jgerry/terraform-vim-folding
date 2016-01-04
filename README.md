@@ -12,4 +12,4 @@ Then put terraform.vim in that directory. By default every .tf file opens alread
 
 Right now this folds resource, provider, and variable stanzas. Maybe there should be more here.
 
-
+![screenshot](https://cloud.githubusercontent.com/assets/156436/12099980/ff94a0b4-b2f9-11e5-997a-4aed67f4bb51.png

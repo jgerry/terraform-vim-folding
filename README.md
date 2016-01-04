@@ -2,7 +2,7 @@ I love using Terraform but the files contain so much stuff! This filetype plugin
 
 First, set up your .tf filetype in your .vimrc:
 
-    au BufRead,BufNewFile *.tf setlocal filetype=terraformi
+    au BufRead,BufNewFile *.tf setlocal filetype=terraform
 
 Create the following directory, if you don't already have it
 

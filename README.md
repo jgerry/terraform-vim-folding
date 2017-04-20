@@ -10,6 +10,6 @@ Create the following directory, if you don't already have it
 
 Then put terraform.vim in that directory. By default every .tf file opens already folded. If you want to change that behavior just change `foldlevel=1` (or > 1).
 
-Right now this folds resource, provider, module, data, output, and variable stanzas. There may be more here in the future.
+Right now this folds resource, provider, module, data, output, terraform, and variable stanzas. There may be more here in the future.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/156436/12099980/ff94a0b4-b2f9-11e5-997a-4aed67f4bb51.png)
